@@ -123,7 +123,7 @@
 }
 
 
-@media(max-width:700px){
+@media(max-width:475px){
     .code{
         display: none;
     }
