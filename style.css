@@ -1,0 +1,130 @@
+.computer{
+    width: 100%;
+}
+
+.learn{
+    position: absolute;
+    top: 250px;
+    right: 140px;
+    font-weight: 800;
+}
+
+.Programming{
+    position: absolute;
+    top: 300px;
+    right: 90px;
+    font-weight: 800;
+    color: #ffffff;
+}
+
+.code{
+    position: absolute;
+    left: 50px;
+    bottom: 60px;
+}
+
+    .btn {
+        background: #000000;
+        background-image: -webkit-linear-gradient(top, #000000, #000000);
+        background-image: -moz-linear-gradient(top, #000000, #000000);
+        background-image: -ms-linear-gradient(top, #000000, #000000);
+        background-image: -o-linear-gradient(top, #000000, #000000);
+        background-image: linear-gradient(to bottom, #000000, #000000);
+        -webkit-border-radius: 28;
+        -moz-border-radius: 28;
+        border-radius: 28px;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #1e1e1e;
+        background-image: -webkit-linear-gradient(top, #1e1e1e, #3498db);
+        background-image: -moz-linear-gradient(top, #1e1e1e, #3498db);
+        background-image: -ms-linear-gradient(top, #1e1e1e, #3498db);
+        background-image: -o-linear-gradient(top, #1e1e1e, #3498db);
+        background-image: linear-gradient(to bottom, #1e1e1e, #3498db);
+        text-decoration: none;
+      }
+
+
+
+      .btnp{
+          position: absolute;
+          top: 400px;
+          right: 120px;
+      }
+
+
+.row{
+    width: 100%;
+}
+
+#second-container{
+    margin-top: 50px;
+}
+
+.h1-text{
+    text-align: center;
+    font-weight: 700;
+}
+
+.p-text{
+    text-align: center;
+    font-weight: 700;
+}
+
+.card1{
+    margin-top: 10px;
+}
+
+#contact{
+    background-color: rgba(0, 0, 0, 0.930);
+
+}
+
+.h1{
+    color: white;
+    margin-left: 100px;
+    padding-top: 20px;
+    margin-bottom: 40px;
+    font-weight: 900;
+}
+
+.h31{
+    color: rgb(102, 103, 105);;
+    margin-left: 50px;
+}
+
+.p1{
+    color: #ffffff;
+    margin-left: 50px;
+}
+
+.fh1{
+    color: black;
+    margin-top: 30px;
+    text-align: center;
+    font-weight: 900;
+}
+
+.social{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.cp{
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 900;
+}
+
+
+@media(max-width:700px){
+    .code{
+        display: none;
+    }
+}
